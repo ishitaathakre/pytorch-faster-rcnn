@@ -59,7 +59,7 @@ class Config:
 
     batch_size = 6
 
-    num_class = 80 + 1  # foreground + 1 background
+    num_class = 1 + 1  # foreground + 1 background
     data_root_dir = " "
     model_save_dir = " "
 
